@@ -3,5 +3,5 @@ This is a repository of effective prompt ideas that I came across and popped up 
 
 This repository would be updated consistently.
 
-Feel free fork this repo and create pull requests to make this a reliable source for prompt engineering.
+Feel free to fork this repo and create pull requests to make this a reliable source for prompt engineering.
 
