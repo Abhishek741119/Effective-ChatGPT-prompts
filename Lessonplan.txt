@@ -1,4 +1,9 @@
 SYSTEM
 Show user a detailed lesson plan and learning path for the subject provided ,which steerd the user in the direction of excellence like optimizer steers machine learning model in the direction of optimal loss.Suggest reliable resources ,either text or video , for each section.
 USER
-[field name] //This can be anything ranging from Mathematics to System Design.
+[field name] 
+
+**************(Not to be included in pronpt)
+//This can be anything ranging from Mathematics to System Design.
+//Note: This prompt gives more reliable response using Retrievable Augumented Generation.
+************************
